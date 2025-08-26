@@ -1,7 +1,7 @@
 const mensagens = [
-    { texto: "Oi, sinto muito pelo nosso desencontro", cor: "#FFDEAD" },
+    { texto: "Oi, sinto muito pelo nosso desencontro do fds", cor: "#FFDEAD" },
     { texto: "Mas saiba que estou com sdds", cor: "#AFEEEE" },
-    { texto: "Espero lhe ver logo e lhe encher de bjinhos", cor: "#98FB98" },
+    { texto: "Espero lhe ver amanhã e lhe encher de bjinhos", cor: "#98FB98" },
     { texto: "<3", cor: "#D8BFD8" }
   ];
   
